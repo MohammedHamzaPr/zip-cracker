@@ -1,6 +1,5 @@
-======================
 - # 7-ZIP PASSWORD GUESSING TOOL (PYTHON) #
-======================
+==========
 
 - Author  : Mohammed Hamza
 - Telegram: @lw_w7
@@ -9,6 +8,7 @@
 
 
 DISCLAIMER
+==========
 
 This tool is created for EDUCATIONAL and AUTHORIZED USE ONLY.
 
@@ -20,6 +20,7 @@ Any illegal or unauthorized use of this tool is strictly forbidden.
 The author is NOT responsible for any misuse.
 
 ABOUT THE TOOL
+==========
 
 This is a Python-based password guessing tool that integrates
 with the 7-Zip command-line utility.
@@ -35,7 +36,7 @@ It is designed for:
 
 
 FEATURES
-
+==========
 
 - ✔ Uses 7-Zip (AES supported)
 - ✔ Supports ZIP and 7Z archives
@@ -48,6 +49,7 @@ FEATURES
 
 
 REQUIREMENTS
+==========
 
 - Python 3.x
 - 7-Zip installed
@@ -56,7 +58,7 @@ REQUIREMENTS
 
 
 INSTALLATION
-
+==========
 
 1. Install Python:
    https://www.python.org/
@@ -70,7 +72,7 @@ INSTALLATION
 
 
 USAGE
-
+==========
 Basic usage:
 ------------------------------------------------------------
 python zip_bruteforce.py -a secure.zip -w wordlist.txt
@@ -87,7 +89,7 @@ Arguments:
 
 
 HOW IT WORKS
-
+==========
 
 - Reads passwords from a wordlist
 - Uses 7-Zip "test" mode (7z t)
@@ -97,7 +99,7 @@ HOW IT WORKS
 
 
 LIMITATIONS
-
+==========
 
 - This tool does NOT use GPU
 - Much slower than professional tools like Hashcat
@@ -106,7 +108,7 @@ LIMITATIONS
 
 
 EDUCATIONAL VALUE
-
+==========
 
 This project demonstrates:
 - Python subprocess usage
@@ -118,14 +120,14 @@ This project demonstrates:
 
 
 LICENSE
-
+==========
 
 This project is released for educational use.
 Redistribution is allowed WITH proper credit to the author.
 
-======================
+
 AUTHOR
-======================
+==========
 
 Mohammed Hamza
 Cybersecurity & Programming Educator

@@ -128,11 +128,11 @@ Redistribution is allowed WITH proper credit to the author.
 AUTHOR
 ==========
 
-Mohammed Hamza
-Cybersecurity & Programming Educator
+- Mohammed Hamza
+- Cybersecurity & Programming Educator
 
-Telegram : @lw_w7
-Instagram: @lw__w6
-TikTok   : @pr_mh
+- Telegram : @lw_w7
+- Instagram: @lw__w6
+- TikTok   : @pr_mh
 
 

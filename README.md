@@ -1,15 +1,15 @@
-============================================================
-# 7-ZIP PASSWORD GUESSING TOOL (PYTHON)
-============================================================
+======================
+# 7-ZIP PASSWORD GUESSING TOOL (PYTHON) #
+======================
 
 Author  : Mohammed Hamza
 Telegram: @lw_w7
 Instagram: @lw__w6
 TikTok  : @pr_mh
 
-============================================================
+======================
 DISCLAIMER
-============================================================
+======================
 
 This tool is created for EDUCATIONAL and AUTHORIZED USE ONLY.
 
@@ -20,9 +20,9 @@ You are allowed to use this tool ONLY on:
 Any illegal or unauthorized use of this tool is strictly forbidden.
 The author is NOT responsible for any misuse.
 
-============================================================
+======================
 ABOUT THE TOOL
-============================================================
+======================
 
 This is a Python-based password guessing tool that integrates
 with the 7-Zip command-line utility.
@@ -36,9 +36,9 @@ It is designed for:
 - Demonstrating brute-force concepts
 - Teaching Python + system tools integration
 
-============================================================
+======================
 FEATURES
-============================================================
+======================
 
 ✔ Uses 7-Zip (AES supported)
 ✔ Supports ZIP and 7Z archives
@@ -49,18 +49,18 @@ FEATURES
 ✔ Clean and readable output
 ✔ Educational and beginner-friendly code
 
-============================================================
+======================
 REQUIREMENTS
-============================================================
+======================
 
 - Python 3.x
 - 7-Zip installed
 - 7z added to system PATH
 - Windows / Linux / macOS (with 7z)
 
-============================================================
+======================
 INSTALLATION
-============================================================
+======================
 
 1. Install Python:
    https://www.python.org/
@@ -72,9 +72,9 @@ INSTALLATION
    Open terminal / CMD and run:
    7z
 
-============================================================
+======================
 USAGE
-============================================================
+======================
 
 Basic usage:
 ------------------------------------------------------------
@@ -90,9 +90,9 @@ Arguments:
 -w, --wordlist  Path to the wordlist file
 -d, --delay     Delay between attempts (seconds)
 
-============================================================
+======================
 HOW IT WORKS
-============================================================
+======================
 
 - Reads passwords from a wordlist
 - Uses 7-Zip "test" mode (7z t)
@@ -100,18 +100,18 @@ HOW IT WORKS
 - Parses output for "Everything is Ok"
 - Stops immediately when the correct password is found
 
-============================================================
+======================
 LIMITATIONS
-============================================================
+======================
 
 - This tool does NOT use GPU
 - Much slower than professional tools like Hashcat
 - Depends heavily on wordlist quality
 - Intended for learning, not real-world attacks
 
-============================================================
+======================
 EDUCATIONAL VALUE
-============================================================
+======================
 
 This project demonstrates:
 - Python subprocess usage
@@ -121,16 +121,16 @@ This project demonstrates:
 - Difference between ZIP and 7Z encryption
 - Why strong passwords matter
 
-============================================================
+======================
 LICENSE
-============================================================
+======================
 
 This project is released for educational use.
 Redistribution is allowed WITH proper credit to the author.
 
-============================================================
+======================
 AUTHOR
-============================================================
+======================
 
 Mohammed Hamza
 Cybersecurity & Programming Educator

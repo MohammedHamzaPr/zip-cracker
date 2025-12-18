@@ -1,5 +1,4 @@
-- # 7-ZIP PASSWORD GUESSING TOOL (PYTHON) #
-==========
+- # 7-ZIP PASSWORD GUESSING TOOL (PYTHON) 
 
 - Author  : Mohammed Hamza
 - Telegram: @lw_w7

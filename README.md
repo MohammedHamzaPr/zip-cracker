@@ -37,14 +37,14 @@ It is designed for:
 FEATURES
 
 
-✔ Uses 7-Zip (AES supported)
-✔ Supports ZIP and 7Z archives
-✔ Wordlist-based password guessing
-✔ Uses argparse for professional CLI usage
-✔ Detects correct password by parsing 7-Zip output
-✔ Optional delay between attempts
-✔ Clean and readable output
-✔ Educational and beginner-friendly code
+- ✔ Uses 7-Zip (AES supported)
+- ✔ Supports ZIP and 7Z archives
+- ✔ Wordlist-based password guessing
+- ✔ Uses argparse for professional CLI usage
+- ✔ Detects correct password by parsing 7-Zip output
+- ✔ Optional delay between attempts
+- ✔ Clean and readable output
+- ✔ Educational and beginner-friendly code
 
 
 REQUIREMENTS

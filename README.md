@@ -2,7 +2,6 @@
 
 - Author  : Mohammed Hamza
 - Telegram: @lw_w7
-- Instagram: @lw__w6
 - TikTok  : @pr_mh
 
 
